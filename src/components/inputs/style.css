@@ -1,0 +1,19 @@
+.ContInp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.ContP {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ContP p {
+  margin: 0 10px 10px 10px;
+}
+.saidasEnt {
+  display: flex;
+}
